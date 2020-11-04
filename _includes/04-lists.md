@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Things that I acknowledge
+1. existence
+2. water being the best
