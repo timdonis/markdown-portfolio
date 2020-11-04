@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Father](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/10253956_10204465127211278_7142763210059573131_n.jpg?_nc_cat=110&ccb=2&_nc_sid=174925&_nc_ohc=f7v1F78yX2MAX9Pisxv&_nc_ht=scontent-iad3-1.xx&oh=726001430e08749700a9371506786407&oe=5FC80815)
